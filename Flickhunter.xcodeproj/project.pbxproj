@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C94E3B7260A7726008358CF /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C94E3B6260A7726008358CF /* Movie.swift */; };
 		1CDEBE9A2604E1DB00EBD681 /* FlickhunterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CDEBE992604E1DB00EBD681 /* FlickhunterApp.swift */; };
 		1CDEBE9C2604E1DB00EBD681 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CDEBE9B2604E1DB00EBD681 /* ContentView.swift */; };
 		1CDEBE9E2604E1DC00EBD681 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CDEBE9D2604E1DC00EBD681 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C94E3B6260A7726008358CF /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		1CDEBE962604E1DB00EBD681 /* Flickhunter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flickhunter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CDEBE992604E1DB00EBD681 /* FlickhunterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickhunterApp.swift; sourceTree = "<group>"; };
 		1CDEBE9B2604E1DB00EBD681 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		1CDEBEAC2604E3D100EBD681 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				1C94E3B6260A7726008358CF /* Movie.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			files = (
 				1CDEBE9C2604E1DB00EBD681 /* ContentView.swift in Sources */,
 				1CDEBE9A2604E1DB00EBD681 /* FlickhunterApp.swift in Sources */,
+				1C94E3B7260A7726008358CF /* Movie.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
